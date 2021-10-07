@@ -10,4 +10,4 @@ The encrypted text is taken from `stdin`, so you could just redirect a file to i
 ./caesar < ciphertext.txt
 ```
 
-This would output the encrypted text and the best guessed key
+This would output the decrypted text and the best guessed key
